@@ -1,0 +1,17 @@
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\CoMapAPP.exe
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\CoMapAPP.deps.json
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\CoMapAPP.runtimeconfig.json
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\CoMapAPP.runtimeconfig.dev.json
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\CoMapAPP.dll
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\CoMapAPP.pdb
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.csprojAssemblyReference.cache
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.AssemblyInfoInputs.cache
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.AssemblyInfo.cs
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.csproj.CoreCompileInputs.cache
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.dll
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.pdb
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.genruntimeconfig.cache
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\Resources\examination.txt
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\obj\Debug\netcoreapp3.1\CoMapAPP.csproj.CopyComplete
+C:\Users\lalik\source\repos\CoMapAPP\CoMapAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

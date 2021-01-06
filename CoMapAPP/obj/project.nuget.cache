@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4R0veJo7Jfma+1s4JnTUmiOWuM+7emVsKdsMAATk6z/1BWy0N02dlCCNFxHOTVKF2u5nUQlKqauFFnb7qrTZ0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lalik\\source\\repos\\CoMapAPP\\CoMapAPP\\CoMapAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lalik\\.nuget\\packages\\mathnet.numerics\\4.14.0\\mathnet.numerics.4.14.0.nupkg.sha512",
+    "C:\\Users\\lalik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

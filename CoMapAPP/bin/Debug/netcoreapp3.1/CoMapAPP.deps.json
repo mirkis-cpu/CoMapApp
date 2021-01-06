@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoMapAPP/1.0.0": {
+        "dependencies": {
+          "MathNet.Numerics": "4.14.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "CoMapAPP.dll": {}
+        }
+      },
+      "MathNet.Numerics/4.14.0": {
+        "runtime": {
+          "lib/netstandard2.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "4.14.0.0",
+            "fileVersion": "4.14.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoMapAPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/4.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R+g4S7L+gJ4WFZQUOOC0QLYdcCtxJBEzHD76VRAlH7upvlD/S1wqrXvHliVy+3h85ZjUSyWSETBXiAnuo70qxw==",
+      "path": "mathnet.numerics/4.14.0",
+      "hashPath": "mathnet.numerics.4.14.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}
